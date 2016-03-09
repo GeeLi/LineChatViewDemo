@@ -46,3 +46,4 @@
 ```
 
 ##显示效果
+![image](https://github.com/GeeLi/LineChatViewDemo/raw/master/demo.gif)
